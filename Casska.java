@@ -9,7 +9,7 @@ import com.datastax.driver.core.Cluster;
 import com.datastax.driver.core.Session;
 
 /**
- * @author wentilo
+ * @author wentilo  kk
  *
  */
 public class Casska {
